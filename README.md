@@ -4,7 +4,7 @@
 <img src="https://github.com/IgnacioNogueira/Profile-images/blob/main/Profile%20picture.jpg?raw=true" alt="Ignacio's Profile" width="800" height="400">
 
 I will share all my projects that I've been working on 
-with a lot of dedication throughout my beautiful career as a computer engineering student.
+with a lot of dedication throughout my beautiful career as a software engineering student.
 
 
 ¡Hope that all that I working on likes you!

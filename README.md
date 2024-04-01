@@ -1,15 +1,19 @@
-
 # Hi, I’m Ignacio Nogueira 👨🏽‍💻
 
-<img src="https://github.com/IgnacioNogueira/Profile-images/blob/main/Profile%20picture.jpg?raw=true" alt="Ignacio's Profile" width="800" height="400">
+![Ignacio's Profile](https://github.com/IgnacioNogueira/Profile-images/blob/main/Profile%20picture.jpg?raw=true)
 
-I will share all my projects that I've been working on 
-with a lot of dedication throughout my beautiful career as a software engineering student.
+I'm excited to share all the projects I've been passionately working on throughout my journey as a software engineering student.
 
+Hope you enjoy exploring them! 😊
 
-¡Hope that all that I working on likes you!
+---
 
-<!---
-IgnacioNogueira/IgnacioNogueira is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Working on Pro Contacto: [Pro Contacto LinkedIn](https://www.linkedin.com/company/grupoprocontacto/mycompany/verification/)
+
+---
+
+## My Hobbies (Currently learning):
+
+### How to get started into cybersecurity?
+[Reddit Post](https://www.reddit.com/r/cybersecurity/comments/ti6a1n/how_to_get_started_into_cybersecurity/)
+[Reddit FAQ](https://www.reddit.com/r/cybersecurity/wiki/faq/#wiki_faq)

@@ -12,7 +12,7 @@ Hope you enjoy exploring them! 😊
 
 ---
 
-### My Hobbies (Currently learning): 
+### Status: 
 
 💻🔒 New to the world of cyber security and currently training to meet the digital challenges of tomorrow.
 
